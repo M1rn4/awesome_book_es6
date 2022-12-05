@@ -77,7 +77,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[You can see our live demo](https://m1rn4.github.io/awesome-book/)
+[You can see our live demo](https://m1rn4.github.io/awesome_book_es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone [here](https://github.com/M1rn4/awesome-book.git)
+- write: git clone [here](https://github.com/M1rn4/awesome_book_es6.git)
 
 ### Install
 
@@ -120,7 +120,7 @@ To run the project, execute the following command:
 
 You can deploy this project using:
 
-[Deploy](https://m1rn4.github.io/awesome-book/)
+[Deploy](https://m1rn4.github.io/awesome_book_es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,12 +133,6 @@ You can deploy this project using:
 - GitHub: [@M1rn4](https://github.com/M1rn4)
 - Twitter: [Mirna_Ampuero](https://twitter.com/_AmpueroMirna)
 - LinkedIn: [Mirna](https://www.linkedin.com/in/mirna-ampuero-caro/)
-
-👤 **Shinhyo**
-
-- GitHub: [@ShinhyoBelok](https://github.com/ShinhyoBelok)
-- Twitter: [@Bell_iraki](https://twitter.com/Bell_iraki)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shinhyo-belliard-okazaki-807a38249/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
